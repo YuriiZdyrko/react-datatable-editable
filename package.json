@@ -1,0 +1,13 @@
+{
+  "name": "react-datatable-editable",
+  "version": "0.0.0",
+  "main": "app/datatable.js",
+  "scripts": {
+    "dev": "webpack-dev-server --devtool eval --progress --colors --content-base build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-dom": "^0.14.6"
+  }
+}
