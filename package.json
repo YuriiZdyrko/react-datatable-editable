@@ -8,6 +8,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "classnames": "^2.2.3",
+    "lodash.isequal": "^4.0.0",
     "react-dom": "^0.14.6"
   }
 }
